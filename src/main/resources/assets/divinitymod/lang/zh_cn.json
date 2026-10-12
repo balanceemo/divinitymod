@@ -1,0 +1,11 @@
+{
+  "item.divinitymod.soul_wind": "龙之剑",
+    "item.divinitymod.netherite_prime": "终极合金",
+    "item.divinitymod.stellar_core_ingot": "星核锭",
+    "item.divinitymod.raw_stellar_core": "星核粗矿",
+    "block.divinitymod.netherite_prime_block": "终极合金块",
+    "block.divinitymod.stellar_core_block": "星核块",
+    "block.divinitymod.end_stellar_core_ore": "末地星核矿石",
+    "block.divinitymod.raw_stellar_core_block": "星核粗矿块",
+  "itemGroup.divinitymod.divinitygroup": "四大神剑模组"
+}

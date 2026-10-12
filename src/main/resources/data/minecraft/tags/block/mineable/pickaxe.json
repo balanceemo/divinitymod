@@ -1,0 +1,9 @@
+{
+  "replace": false,
+    "values": [
+      "divinitymod:end_stellar_core_ore",
+      "divinitymod:stellar_core_block",
+      "divinitymod:raw_stellar_core_block",
+        "divinitymod:netherite_prime_block"
+    ]
+}

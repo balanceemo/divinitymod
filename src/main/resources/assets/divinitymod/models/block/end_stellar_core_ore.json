@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "divinitymod:block/end_stellar_core_ore"
+  }
+}

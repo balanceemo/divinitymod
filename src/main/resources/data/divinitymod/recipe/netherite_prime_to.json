@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "divinitymod:netherite_prime"
+    }
+  },
+  "result": {
+    "id": "divinitymod:netherite_prime_block",
+    "count": 1
+  }
+}
