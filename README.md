@@ -1,7 +1,15 @@
-新人第一次开发模组
+新人第一次设计
 
-我的世界新模组
-名称：divinitymod
-    四大神
-版本：1.21.1-fabric
-个人开发，设计，画画
+本模组介绍
+英文名称：divinitymod
+中文名称：四大神
+版本介绍：
+1.21.1——fabric
+
+开发者:balanceemo\geamnect(作者)
+画画:geamnect
+设计：geamnect
+
+设计来源于China's Four Divine Beasts；
+
+Black Tortoise·Vermilion Bird·White Tiger·Azure Dragon
