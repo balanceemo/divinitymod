@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S S",
+    "SSS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "divinitymod:stellar_core_ingot"
+    }
+  },
+  "result": {
+    "id": "divinitymod:stellar_core_chestplate",
+    "count": 1
+  }
+}

@@ -37,11 +37,21 @@ public class ModItemGroups {
             entries.add(ModItems.STELLAR_CORE_INGOT);
             entries.add(ModItems.RAW_STELLAR_CORE);
 
-
             entries.add(ModBlocks.NETHERITE_PRIME_BLOCK);
             entries.add(ModBlocks.STELLAR_CORE_BLOCK);
             entries.add(ModBlocks.END_STELLAR_CORE_ORE);
             entries.add(ModBlocks.RAW_STELLAR_CORE_BLOCK);
+
+            entries.add(ModItems.STELLAR_CORE_HELMET);
+            entries.add(ModItems.STELLAR_CORE_CHESTPLATE);
+            entries.add(ModItems.STELLAR_CORE_LEGGINGS);
+            entries.add(ModItems.STELLAR_CORE_BOOTS);
+
+            entries.add(ModItems.STELLAR_CORE_PICKAXE);
+            entries.add(ModItems.STELLAR_CORE_SHOVEL);
+            entries.add(ModItems.STELLAR_CORE_AXE);
+            entries.add(ModItems.STELLAR_CORE_HOE);
+
         });
     }
 }

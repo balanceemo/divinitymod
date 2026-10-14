@@ -3,10 +3,23 @@
   "item.divinitymod.netherite_prime": "Netherite Prime",
   "item.divinitymod.stellar_core_ingot": "Stellar Core Ingot",
   "item.divinitymod.raw_stellar_core": "Raw Stellar Core",
+
+  "item.divinitymod.stellar_core_pickaxe": "Stellar Core Pickaxe",
+  "item.divinitymod.stellar_core_shovel": "Stellar Core Shovel",
+  "item.divinitymod.stellar_core_axe": "Stellar Core Axe",
+  "item.divinitymod.stellar_core_hoe": "Stellar Core Hoe",
+
+  "item.divinitymod.stellar_core_helmet": "Stellar Core Helmet",
+  "item.divinitymod.stellar_core_chestplate": "Stellar Core Chestplate",
+  "item.divinitymod.stellar_core_leggings": "Stellar Core Leggings",
+  "item.divinitymod.stellar_core_boots": "Stellar Core Boots",
+
   "block.divinitymod.netherite_prime_block": "Netherite Prime Block",
   "block.divinitymod.stellar_core_block": "Stellar Core Block",
   "block.divinitymod.end_stellar_core_ore": "End Stellar Core Ore",
   "block.divinitymod.raw_stellar_core_block": "Raw Stellar Core Block",
-  "itemGroup.divinitymod.divinitygroup": "Divinity Mod",
-  "
+
+  "itemGroup.divinitymod.divinitygroup": "Divinity Mod"
+}
+
 

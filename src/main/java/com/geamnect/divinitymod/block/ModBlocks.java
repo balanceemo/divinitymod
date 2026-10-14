@@ -8,7 +8,7 @@ import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
-import net.minecraft.util.PathUtil;
+
 
 
 public class ModBlocks {
@@ -32,6 +32,8 @@ public class ModBlocks {
         registerBlocksItems(id, block);
         return Registry.register(Registries.BLOCK, Identifier.of(DivinityMod.MOD_ID, id), block);
     }
+
+
 
     public static void registerModBlocks() {
         DivinityMod.LOGGER.info("Registering Blocks");

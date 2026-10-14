@@ -23,6 +23,11 @@ repositories {
 	flatDir { dirs 'libs' }
 }
 
+loom {
+	mixin {
+		defaultRefmapName = "${project.archives_base_name}-refmap.json"
+	}
+}
 
 
 fabricApi {
