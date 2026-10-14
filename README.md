@@ -1,9 +1,7 @@
-# Example Mod
+新人第一次开发模组
 
-## Setup
-
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+我的世界新模组
+名称：divinitymod
+    四大神
+版本：1.21.1-fabric
+个人开发，设计，画画
