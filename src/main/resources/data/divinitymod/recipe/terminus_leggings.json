@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "S S",
+    "S S"
+  ],
+  "key": {
+    "S": {
+      "item": "divinitymod:terminus_ingot"
+    }
+  },
+  "result": {
+    "id": "divinitymod:terminus_leggings",
+    "count": 1
+  }
+}

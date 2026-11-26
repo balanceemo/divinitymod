@@ -1,0 +1,48 @@
+{
+  "item.divinitymod.soul_wind": "龙之剑",
+  "item.divinitymod.void_ingot": "虚空锭",
+  "item.divinitymod.stellar_core_ingot": "陨星锭",
+  "item.divinitymod.raw_stellar_core": "陨星粗矿",
+  "item.divinitymod.terminus_ingot": "终焉锭",
+
+  "item.divinitymod.stellar_core_sword": "陨星剑",
+  "item.divinitymod.stellar_core_pickaxe": "陨星稿",
+  "item.divinitymod.stellar_core_shovel": "陨星铲",
+  "item.divinitymod.stellar_core_axe": "陨星斧",
+  "item.divinitymod.stellar_core_hoe": "陨星锄",
+
+  "item.divinitymod.void_sword": "虚空剑",
+  "item.divinitymod.void_pickaxe": "虚空镐",
+  "item.divinitymod.void_axe": "虚空斧",
+  "item.divinitymod.void_shovel": "虚空铲",
+  "item.divinitymod.void_hoe": "虚空锄",
+
+  "item.divinitymod.terminus_sword": "终焉剑",
+  "item.divinitymod.terminus_pickaxe": "终焉镐",
+  "item.divinitymod.terminus_axe": "终焉斧",
+  "item.divinitymod.terminus_shovel": "终焉铲",
+  "item.divinitymod.terminus_hoe": "终焉锄",
+
+  "item.divinitymod.stellar_core_helmet": "陨星头盔",
+  "item.divinitymod.stellar_core_chestplate": "陨星胸甲",
+  "item.divinitymod.stellar_core_leggings": "陨星裤腿",
+  "item.divinitymod.stellar_core_boots": "陨星靴子",
+
+  "item.divinitymod.void_helmet": "虚空头盔",
+  "item.divinitymod.void_chestplate": "虚空胸甲",
+  "item.divinitymod.void_leggings": "虚空裤腿",
+  "item.divinitymod.void_boots": "虚空靴子",
+
+  "item.divinitymod.terminus_helmet": "终焉头盔",
+  "item.divinitymod.terminus_chestplate": "终焉胸甲",
+  "item.divinitymod.terminus_leggings": "终焉裤腿",
+  "item.divinitymod.terminus_boots": "终焉靴子",
+
+  "block.divinitymod.void_ingot_block": "虚空块",
+  "block.divinitymod.stellar_core_block": "陨星块",
+  "block.divinitymod.terminus_ingot_block": "终焉块",
+  "block.divinitymod.end_stellar_core_ore": "末地陨星矿石",
+  "block.divinitymod.raw_stellar_core_block": "陨星粗矿块",
+
+  "itemGroup.divinitymod.divinitygroup": "星神"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SVS",
+    "V V",
+    "SVS"
+  ],
+  "key": {
+    "V": { "item": "divinitymod:void_ingot" },
+    "S": { "item": "divinitymod:stellar_core_ingot" }
+  },
+  "result": {
+    "id": "divinitymod:terminus_ingot",
+    "count": 1
+  }
+}

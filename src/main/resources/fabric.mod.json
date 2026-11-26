@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "divinitymod",
+	"version": "${version}",
+	"name": "DivinityMod",
+	"description": "这是描述",
+	"authors": [
+		"geamnect!"
+	],
+	"contact": {
+		"sources": "https://github.com/balanceemo/divinitymod.git"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/divinitymod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.geamnect.divinitymod.DivinityMod"
+		],
+		"fabric-datagen": [
+			"com.geamnect.divinitymod.DivinityModDataGenerator"
+		],
+		"client": [
+			"com.geamnect.divinitymod.DivinityModClient"
+		]
+	},
+	"mixins": [
+		"divinitymod.mixins.json"
+
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

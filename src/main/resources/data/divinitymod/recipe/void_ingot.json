@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SGS",
+    "GEG",
+    "SGS"
+  ],
+  "key": {
+    "E": { "item": "minecraft:ender_eye" },
+    "G": { "item": "minecraft:gold_ingot" },
+    "S": { "item": "divinitymod:stellar_core_ingot" }
+  },
+  "result": {
+    "id": "divinitymod:void_ingot",
+    "count": 1
+  }
+}

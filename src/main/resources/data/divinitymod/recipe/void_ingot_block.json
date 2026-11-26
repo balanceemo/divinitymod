@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "divinitymod:void_ingot_block"
+    }
+  ],
+  "result": {
+    "id": "divinitymod:void_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#divinitymod:stellar_core_mineable",
+    "divinitymod:terminus_ingot_block"
+  ]
+}

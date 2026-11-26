@@ -1,0 +1,50 @@
+{
+  "item.divinitymod.soul_wind": "Soul Wind",
+  "item.divinitymod.void_ingot": "Void Ingot",
+  "item.divinitymod.stellar_core_ingot": "Stellar Core Ingot",
+  "item.divinitymod.terminus_ingot": "Terminus Ingot",
+  "item.divinitymod.raw_stellar_core": "Raw Stellar Core",
+
+  "item.divinitymod.stellar_core_pickaxe": "Stellar Core Pickaxe",
+  "item.divinitymod.stellar_core_shovel": "Stellar Core Shovel",
+  "item.divinitymod.stellar_core_axe": "Stellar Core Axe",
+  "item.divinitymod.stellar_core_hoe": "Stellar Core Hoe",
+  "item.divinitymod.stellar_core_sword": "Stellar Core Sword",
+
+  "item.divinitymod.void_sword": "Void Sword",
+  "item.divinitymod.void_pickaxe": "Void Pickaxe",
+  "item.divinitymod.void_axe": "Void Axe",
+  "item.divinitymod.void_shovel": "Void Shovel",
+  "item.divinitymod.void_hoe": "Void Hoe",
+
+  "item.divinitymod.terminus_sword": "Terminus Sword",
+  "item.divinitymod.terminus_pickaxe": "Terminus Pickaxe",
+  "item.divinitymod.terminus_axe": "Terminus Axe",
+  "item.divinitymod.terminus_shovel": "Terminus Shovel",
+  "item.divinitymod.terminus_hoe": "Terminus Hoe",
+
+  "item.divinitymod.stellar_core_helmet": "Stellar Core Helmet",
+  "item.divinitymod.stellar_core_chestplate": "Stellar Core Chestplate",
+  "item.divinitymod.stellar_core_leggings": "Stellar Core Leggings",
+  "item.divinitymod.stellar_core_boots": "Stellar Core Boots",
+
+  "item.divinitymod.void_helmet": "Void Helmet",
+  "item.divinitymod.void_chestplate": "Void Chestplate",
+  "item.divinitymod.void_leggings": "Void Leggings",
+  "item.divinitymod.void_boots": "Void Boots",
+
+  "item.divinitymod.terminus_helmet": "Terminus Helmet",
+  "item.divinitymod.terminus_chestplate": "Terminus Chestplate",
+  "item.divinitymod.terminus_leggings": "Terminus Leggings",
+  "item.divinitymod.terminus_boots": "Terminus Boots",
+
+  "block.divinitymod.void_ingot_block": "Void Ingot BLOCK",
+  "block.divinitymod.stellar_core_block": "Stellar Core Block",
+  "block.divinitymod.terminus_ingot_block": "Terminus Ingot block",
+  "block.divinitymod.end_stellar_core_ore": "End Stellar Core Ore",
+  "block.divinitymod.raw_stellar_core_block": "Raw Stellar Core Block",
+
+  "itemGroup.divinitymod.divinitygroup": "Divinity Mod"
+}
+
+

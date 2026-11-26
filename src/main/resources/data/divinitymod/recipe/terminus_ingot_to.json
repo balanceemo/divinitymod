@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "divinitymod:terminus_ingot"
+    }
+  },
+  "result": {
+    "id": "divinitymod:terminus_ingot_block",
+    "count": 1
+  }
+}

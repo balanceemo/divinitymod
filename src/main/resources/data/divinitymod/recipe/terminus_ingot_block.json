@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "divinitymod:terminus_ingot_block"
+    }
+  ],
+  "result": {
+    "id": "divinitymod:terminus_ingot",
+    "count": 9
+  }
+}

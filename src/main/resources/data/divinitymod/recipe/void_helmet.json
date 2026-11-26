@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "S S"
+  ],
+  "key": {
+    "S": {
+      "item": "divinitymod:void_ingot"
+    }
+  },
+  "result": {
+    "id": "divinitymod:void_helmet",
+    "count": 1
+  }
+}

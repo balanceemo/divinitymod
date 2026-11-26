@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " SS",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "S": {
+      "item": "divinitymod:stellar_core_ingot"
+    },
+    "#": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "divinitymod:stellar_core_hoe",
+    "count": 1
+  }
+}

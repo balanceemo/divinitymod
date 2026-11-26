@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "divinitymod:block/stellar_core_block"
+    }
+  }
+}

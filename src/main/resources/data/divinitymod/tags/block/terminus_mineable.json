@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#divinitymod:void_mineable",
+    "minecraft:barrier",
+    "minecraft:bedrock"
+  ]
+}

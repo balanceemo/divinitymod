@@ -1,0 +1,13 @@
+
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "divinitymod:stellar_core_block"
+    }
+  ],
+  "result": {
+    "id": "divinitymod:stellar_core_ingot",
+    "count": 9
+  }
+}

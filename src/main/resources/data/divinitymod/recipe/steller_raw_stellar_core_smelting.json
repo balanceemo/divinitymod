@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 10.0,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "divinitymod:raw_stellar_core"
+  },
+  "result": {
+    "id": "divinitymod:stellar_core_ingot",
+    "count": 1
+  }
+}
