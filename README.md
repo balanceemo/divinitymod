@@ -1,31 +1,15 @@
-[中文](#中文说明) | [English](#english)
+**English** | [中文](README.zh.md)
 
----
+# DivinityMod
 
-## English
+Newbie's First Design
 
-About This Mod
-- English Name: divinitymod
-- Chinese Name: Star God
-- Version: 1.21.1 (Fabric)
+## About This Mod
+- **English Name:** divinitymod
+- **Chinese Name:** Star God
+- **Version:** 1.0.0 for Minecraft 1.21.1 (Fabric)
 
-**Items:** 31 | **Blocks:** 3
+**Items:** 31 | **Blocks:** 3 tiers
 
 **Developer:** balanceemo / geamnect (Author)
-**Artwork:** geamnect
-**Design:** geamnect
-
----
-
-## 中文说明
-
-本模组介绍
-- 英文名称：divinitymod
-- 中文名称：星神
-- 版本：1.21.1（Fabric）
-
-**物品数量：** 31 个 | **方块数量：** 3 个
-
-**开发者：** balanceemo / geamnect（作者）
-**画画：** geamnect
-**设计：** geamnect
+**Artwork & Design:** geamnect
